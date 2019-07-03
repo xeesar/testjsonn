@@ -1,0 +1,19 @@
+{
+  "users":[
+    {
+      "userName": "Vitaly Evtukh",
+      "years": 21,
+      "imageURL": "https://pp.userapi.com/c852032/v852032266/117742/REW2o06-T0Y.jpg"
+    },
+    {
+      "userName": "Tatyana Malinina",
+      "years": 23,
+      "imageURL": "https://pp.userapi.com/c850632/v850632343/13cd9f/9hCyxbxLw5Q.jpg"
+    },
+    {
+      "userName": "Mike Wazovskiy",
+      "years": 1,
+      "imageURL": "https://pp.userapi.com/c830401/v830401532/19c78d/r5J_UNiAkOw.jpg"
+    }
+  ]
+}
